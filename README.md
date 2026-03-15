@@ -39,9 +39,10 @@ The common thread is understanding the business context behind the data. I don't
 Unplanned downtime in North Sea oil operations can cost over $1M per day. I analyzed 8 years of production data from Equinor's Volve field to understand what anomalous production looks like
 
 **What I found:**
-- Flagged 382 anomalous production days across 5 wells
-- 70% of anomalies occurred in the first 18 months of operation
-- Late-life wells showed deviations 15% higher than baseline before failure
+- Flagged 382 anomalous production days across 7,624  operational days (5.0% field anomaly rate)
+- Well NO 15/9-F-12 H had the highest anomaly rate at 6.45% — active for the entire field life (2008–2016)
+- Anomalies clustered in two phases: early-life volatility (2008–2010) and late-life unplanned shutdowns (2011–2014)
+- Brief production recovery in 2015 indicates a well intervention before the final decline
 
 **Built with:** Python, Isolation Forest, Power BI, pandas
 
