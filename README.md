@@ -65,7 +65,7 @@ Winter bed shortages cost the NHS hundreds of millions annually. I built a model
 
 ---
 
-### [Data Readiness Diagnostic Framework *(MSc Dissertation)*](https://github.com/AlliMariam/data_readiness_tool)
+### [Data Readiness Diagnostic Framework For Predictive Maintenance In The Oil & Gas Sector](https://github.com/AlliMariam/data_readiness_tool)
 
 Most predictive maintenance projects fail because of data quality issues, not poor models. I'm building an automated diagnostic tool that checks industrial sensor data before any ML work begins.
 
